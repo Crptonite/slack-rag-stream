@@ -1,0 +1,2 @@
+$env:NODE_OPTIONS="--import ./instrument.mjs"
+node src/server.js
